@@ -35,7 +35,7 @@ I am a Computer Science student at UET Lahore with a deep interest in software d
 
 ## Contact
 
-- Email: [zainiqbal7007@gmail.com](mailto:zainiqbal7007@gmail.com)
+- Email:    [zainiqbal7007@gmail.com](mailto:zainiqbal7007@gmail.com)
 - LinkedIn: [linkedin.com/in/muhammadzainiqbal](https://www.linkedin.com/in/muhammadzainiqbal)
 
 ---
