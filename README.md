@@ -68,7 +68,7 @@ I prioritize production-grade stability and clean architecture over commit volum
     <img src="https://img.shields.io/badge/LinkedIn-%2322D3EE.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:zainiqbal7007@gmail.com">
+  <a href="mailto:zainiqbal.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%2322D3EE.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
