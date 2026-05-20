@@ -19,11 +19,13 @@ I specialize in **AI-native engineering**, utilizing agentic workflows (Cursor, 
 
 ### Key Engineering Projects
 
-#### **Present! — Enterprise Attendance Platform**
-*A high-availability, multi-tenant SaaS solution designed for institutional-scale attendance management.*
-- **Core Technology:** ASP.NET Core 8.0, Entity Framework Core, SQL Server.
-- **Architectural Highlights:** Implemented strict multi-tenant data isolation and a proprietary Time-Lock engine to enforce attendance windows.
-- **Security:** Built a robust Role-Based Access Control (RBAC) system to govern administrative and academic boundaries.
+#### **Present! — Multi-Tenant Attendance SaaS**
+*A data-isolated, time-locked attendance tracking system engineered for institutional deployment.*
+- **Core Technology Stack:** ASP.NET Core 8.0 MVC, Entity Framework Core 8, Microsoft SQL Server, JWT Bearer Architecture, Resend API.
+- **Data Isolation & Multi-Tenancy:** Engineered a single-database, multi-tenant architecture utilizing global query filters in Entity Framework Core to enforce strict logical data isolation across distinct institutional boundaries.
+- **Time-Lock Engine:** Developed a deterministic server-side cryptographic window validation engine to restrict user attendance submissions strictly to administrator-defined temporal and geographic coordinate thresholds.
+- **Access Control & Identity:** Implemented an optimized Role-Based Access Control (RBAC) system backed by ASP.NET Core Identity to govern security state permissions between administrative, faculty, and student nodes.
+- **Infrastructure & Automation:** Provisioned via Terraform as a non-root Linux container inside Azure App Service, armored behind a Cloudflare edge proxy with fully automated GitHub Actions CI/CD pipelines.
 
 #### **Blockchain-Based Voting System**
 *A secure, transparent, and anonymous electoral platform leveraging distributed ledger technology.*
