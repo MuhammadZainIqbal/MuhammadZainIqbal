@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Muhammad%20Zain%20Iqbal&fontSize=46&fontColor=22D3EE&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Development%2C%20AI%20Systems%2C%20and%20Automation&descAlignY=58&descSize=18&descColor=94A3B8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:155E75&height=200&section=header&text=Muhammad%20Zain%20Iqbal&fontSize=46&fontColor=22D3EE&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Development%2C%20AI%20Systems%2C%20and%20Automation&descAlignY=58&descSize=18&descColor=A5F3FC" width="100%" />
 </p>
 
 <p align="center">
@@ -39,12 +39,7 @@ Working primarily in the JavaScript/TypeScript ecosystem, paired with Python for
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZainIqbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZainIqbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadZainIqbal&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=MuhammadZainIqbal&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -54,5 +49,5 @@ Working primarily in the JavaScript/TypeScript ecosystem, paired with Python for
 Open to freelance and full-time full-stack / AI engineering work. Pinned repositories below have live demos linked. Reach out via email or LinkedIn.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,100:155E75&height=90&section=footer" width="100%" />
 </p>
